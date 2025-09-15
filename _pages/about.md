@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Fellow, UTS <a href='https://www.uts.edu.au/research/centres/centre-audio-acoustics-and-vibration'>CAAV</a>
 
 profile:
   align: right
