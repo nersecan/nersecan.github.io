@@ -18,8 +18,10 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Adjunct Fellow at the Centre for Audio, Acoustics and Vibration at UTS. 
+I investigate novel data and computational algorithms to develop bioinspired materials and structures, with a particular focus on discovering the evolutionary and stigmergic tendencies in structures built by eusocial insects, such as honey bees, by looking at vibro-acoustic signals and material modelling. 
+I am actively involved in industrial projects on noise and vibration mitigation and wavefront engineering.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In 2020, I obtained my PhD in Mechanical Engineering from Gwangju Institute of Science and Technology, where I was advised by Prof. Semyung Wang and benefited from mentors at the Intelligent System Design Lab.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+You can find a copy of my CV [here](/assets/pdf/Can_Nerse_CV.pdf)
