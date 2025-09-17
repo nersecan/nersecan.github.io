@@ -24,4 +24,4 @@ I am actively involved in industrial projects on noise and vibration mitigation 
 
 In 2020, I obtained my PhD in Mechanical Engineering from Gwangju Institute of Science and Technology, where I was advised by Prof. Semyung Wang and benefited from mentors at the Intelligent System Design Lab.
 
-You can find a copy of my CV [here](/assets/pdf/Can_Nerse_CV.pdf)
+You can find a copy of my CV [here](/assets/pdf/Can_Nerse_CV.pdf).
