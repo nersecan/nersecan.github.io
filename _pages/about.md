@@ -18,7 +18,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am an early-career researcher working on metamaterials, vibro-acoustics, digital twin studies, as well as biogenic dynamics. I investigate novel data and computational algorithms to develop bioinspired materials and structures. My on-going efforts is on discovering the evolutionary and stigmergic tendencies in structures built by eusocial insects, such as honey bees, by looking at vibro-acoustic signals and material modelling. 
+I am an early-career researcher working on metamaterials, vibro-acoustics, digital twin studies, as well as biogenic dynamics. I investigate novel data and computational algorithms to develop bioinspired materials and structures. My focus is on discovering the evolutionary and stigmergic tendencies in structures built by eusocial insects, such as honey bees, by looking at vibro-acoustic signals and material modelling. 
 I am actively involved in industrial projects on noise and vibration mitigation and wavefront engineering.
 
 In 2020, I obtained my PhD in Mechanical Engineering from Gwangju Institute of Science and Technology, where I was advised by Prof. Semyung Wang and benefited from mentors at the Intelligent System Design Lab.
