@@ -16,6 +16,11 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: false # leave blank to include all the blog posts
 ---
 
 I am an early-career researcher working on metamaterials, vibro-acoustics, digital twin studies, as well as biogenic dynamics. I investigate novel data and computational algorithms to develop bioinspired materials and structures. My focus is on discovering the evolutionary and stigmergic tendencies in structures built by eusocial insects, such as honey bees, by looking at vibro-acoustic signals and material modelling. 
