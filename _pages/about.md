@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: Research Fellow, UTS <a href='https://www.uts.edu.au/research/centres/centre-audio-acoustics-and-vibration'>CAAV</a>
+subtitle: Research Fellow, UTS <a href='https://www.uts.edu.au/research/centres/centre-audio-acoustics-and-vibration'>CAAV</a>
 
 profile:
   align: right
@@ -13,12 +13,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am currently in an adjunct position at the Centre for Audio, Acoustics and Vibration at UTS. 
 I investigate novel data and computational algorithms to develop bioinspired materials and structures, with a particular focus on discovering the evolutionary and stigmergic tendencies in structures built by eusocial insects, such as honey bees, by looking at vibro-acoustic signals and material modelling. 
 I am actively involved in industrial projects on noise and vibration mitigation and wavefront engineering.
 
