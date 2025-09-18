@@ -17,6 +17,9 @@ ninja.data = [{
             },},{id: "news-our-collaborative-work-studying-the-significance-of-buzzing-noises-on-plant-nectar-production-as-part-of-a-human-frontier-science-program-grant-was-featured-on-the-guardian",
           title: 'Our collaborative work studying the significance of buzzing noises on plant nectar production,...',
           description: "",
+          section: "News",},{id: "news-test",
+          title: 'test',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
