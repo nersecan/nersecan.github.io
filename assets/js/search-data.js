@@ -14,7 +14,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{
+            },},{id: "news-our-collaborative-work-studying-the-significance-of-buzzing-noises-on-plant-nectar-production-as-part-of-a-human-frontier-science-program-grant-was-featured-on-the-guardian",
+          title: 'Our collaborative work studying the significance of buzzing noises on plant nectar production,...',
+          description: "",
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
